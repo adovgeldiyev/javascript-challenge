@@ -1,5 +1,5 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
-## Link to page
+## Link to page, check this out
 * [UFO Sightings](https://adovgeldiyev.github.io/link-to-page/)
 
 ## Background
