@@ -1,6 +1,6 @@
 # JavaScript Homework - JavaScript and DOM Manipulation
 ## Link to page
-* [UFO Sightings](https://github.com/adovgeldiyev/javascript-challenge/blob/master/Instructions/StarterCode/index.html)
+* [UFO Sightings](https://adovgeldiyev.github.io/link-to-page/)
 
 ## Background
 
